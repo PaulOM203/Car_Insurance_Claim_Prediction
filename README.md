@@ -3,7 +3,9 @@
 
 Based on customer demographics &amp; driver history, this machine learning project aims to predict whether a customer will file an insurance claim or not. 
 
-## Features 
+### Features
+- **Dataset:**
+  - Customer Age, Driving Experience, Annual Mileage, Vehicle Year, Speeding Violations, Past Accidents, DUIs etc. 
 - **Preprocessing:**
   - Handling missing data, scaling and encoding
 - **EDA:**
@@ -13,4 +15,4 @@ Based on customer demographics &amp; driver history, this machine learning proje
 - **Deep Learning:**
   - ANN & CNN implementation
 - **Evaluation:**
-  - Comparing the accuracy scores and overall model performances 
+  - Comparing the accuracy scores and overall model performances
