@@ -4,13 +4,13 @@
 Based on customer demographics &amp; driver history, this machine learning project aims to predict whether a customer will file an insurance claim or not. 
 
 ## Features 
-- 'Preprocessing:'
+- **Preprocessing:**
   - Handling missing data, scaling and encoding
-- 'EDA:'
+- **EDA:**
   - Discovering patterns and relationships in the data
-- 'Model Building:'
+- **Model Building:**
   - Logistic Regression, SVC and Random Forest
-- 'Deep Learning:'
+- **Deep Learning:**
   - ANN & CNN implementation
-- 'Evaluation:'
+- **Evaluation:**
   - Comparing the accuracy scores and overall model performances 
